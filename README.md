@@ -4,6 +4,11 @@ Course repository for data mining / applied ML assignments (CMPE-255, Section 47
 
 ## Layout
 - `Assignment 1/`: Mental health survey analysis with executed notebook, figures, and detailed README.
+- `Assignment 2 (Extra Credit)/`: VS Code + Copilot demo assets (instructions, video placeholders).
+- `Apache beam data engineering exercise - Assignment 3/`: Beam pipelines with I/O, windowing, partitioning, and sklearn RunInference.
+- `Assignment 4/CRISP-DM/`: House Prices regression case study following CRISP-DM (notebook, figures, script).
+- `Assignment 4/SEMMA/`: Adult Income classification case study following SEMMA (notebook, figures, script).
+- `Assignment 4/KDD/`: Wine Quality regression case study following KDD (notebook, figures, script).
 - `colab_starter/`: Reusable Colab-ready starter kit (template notebook + requirements) to bootstrap future assignments.
 
 ## How to use
