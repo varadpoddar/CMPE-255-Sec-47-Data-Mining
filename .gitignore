@@ -25,3 +25,4 @@ build/
 Assignment.steps
 **/mlruns/
 Assignment 5/PyCaret/association-rules/association_rules.csv
+Assignment 5/PyCaret/data/creditcard.csv
