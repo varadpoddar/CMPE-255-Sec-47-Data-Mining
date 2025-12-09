@@ -9,6 +9,7 @@ Course repository for data mining / applied ML assignments (CMPE-255, Section 47
 - `Assignment 4/CRISP-DM/`: House Prices regression case study following CRISP-DM (notebook, figures, script).
 - `Assignment 4/SEMMA/`: Adult Income classification case study following SEMMA (notebook, figures, script).
 - `Assignment 4/KDD/`: Wine Quality regression case study following KDD (notebook, figures, script).
+- `Assignment 5/PyCaret/`: PyCaret 2.3.5 local (GPU where possible) tutorials for classification, regression, clustering, anomaly, association rules, time series, and Gradio demos.
 - `colab_starter/`: Reusable Colab-ready starter kit (template notebook + requirements) to bootstrap future assignments.
 
 ## How to use
