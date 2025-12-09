@@ -29,3 +29,11 @@ Assignment 5/PyCaret/data/creditcard.csv
 Assignment 6/AutoGluon/*/data/
 Assignment 6/AutoGluon/california-housing/ag_california_models/
 Assignment 6/AutoGluon/tabular-demos/ag_tabular_*/
+Assignment 6/AutoGluon/extra-credit/multilabel/ag_multilabel_models/
+Assignment 6/AutoGluon/extra-credit/*/data/
+Assignment 6/AutoGluon/extra-credit/gpu/ag_gpu_models/
+Assignment 6/AutoGluon/extra-credit/text/ag_text_models/
+Assignment 6/AutoGluon/extra-credit/image-classification/ag_image_models/
+Assignment 6/AutoGluon/extra-credit/semantic-matching/ag_semantic_models/
+Assignment 6/AutoGluon/extra-credit/multimodal-tabular/ag_multimodal_models/
+Assignment 6/AutoGluon/extra-credit/**/ag_*models/
