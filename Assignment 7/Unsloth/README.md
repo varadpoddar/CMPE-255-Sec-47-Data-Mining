@@ -16,6 +16,11 @@ This assignment captures Colab notebooks and documentation for Unsloth finetunin
 - Export artifacts as instructed (e.g., Ollama export).
 - Record a 1–2 minute video per notebook showing code, data prep, training, and inference/output.
 
+## Local attempt & limitation
+- Attempted `pip install unsloth` in local `.venv` (Mac/ARM, CPU-only). Installation failed building `xformers` (`clang++: unsupported option -fopenmp`) and would be impractical without GPU.
+- Colab credits are currently exhausted, so runs must be done when GPU credits are available (Colab Pro/Kaggle GPU/other GPU).
+- Proceed by running the provided notebooks in Colab (or any GPU environment) and capturing outputs/videos there.
+
 ## Deliverables
 - Executed notebooks with outputs saved to the repo.
 - Video links (YouTube) per use case (add to each notebook/README).
