@@ -10,6 +10,9 @@ Course repository for data mining / applied ML assignments (CMPE-255, Section 47
 - `Assignment 4/SEMMA/`: Adult Income classification case study following SEMMA (notebook, figures, script).
 - `Assignment 4/KDD/`: Wine Quality regression case study following KDD (notebook, figures, script).
 - `Assignment 5/PyCaret/`: PyCaret 2.3.5 local (GPU where possible) tutorials for classification, regression, clustering, anomaly, association rules, time series, and Gradio demos.
+- `Assignment 6/AutoGluon/`: AutoGluon Tabular runs (IEEE fraud, California housing) plus extra credit multimodal/time-series/text/image tasks; executed notebooks with outputs and component-level READMEs.
+- `Assignment 7/Unsloth/`: Fine-tuning LLMs with Unsloth (full finetune, checkpoint resume, mental-health chatbot, Ollama export). Local notebooks + notes on Colab credit limits and expected runtime steps.
+- `Assignment 8/Clustering/`: Colab-first clustering suite—k-means from scratch, hierarchical, GMM, DBSCAN (PyCaret), PyOD anomaly, time-series (tslearn, TS2Vec), document embeddings, and image/audio embedding templates. Executed locals noted in status; remaining to run in Colab/GPU.
 - `colab_starter/`: Reusable Colab-ready starter kit (template notebook + requirements) to bootstrap future assignments.
 
 ## How to use
