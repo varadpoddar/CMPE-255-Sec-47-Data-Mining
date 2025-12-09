@@ -1,11 +1,12 @@
 # Assignment 6 — AutoGluon
 
-This assignment focuses on running and documenting AutoGluon Colab notebooks for Kaggle competitions and tabular tasks. Components will be completed one at a time per `Assignment.steps`.
+This assignment focuses on running and documenting AutoGluon Colab notebooks for Kaggle competitions and tabular tasks. Components were completed one at a time per `Assignment.steps`.
 
 ## Components
-- IEEE Fraud Detection (Kaggle) — AutoGluon Tabular (this component scaffolded here).
+- IEEE Fraud Detection (Kaggle) — AutoGluon Tabular (scaffolded; ready to run with Kaggle creds).
 - California Housing (Kaggle) — AutoGluon Tabular (executed on SAMPLE_FRACTION=0.1, time_limit=60s; notebook saved with outputs).
-- AutoGluon tabular demos: quick start, in-depth, multimodal tabular, feature engineering (later components).
+- AutoGluon tabular demos: quick start, in-depth, multimodal tabular, feature engineering (executed on small samples; outputs saved).
+- Extra credit: multiple AutoGluon modalities (text, multimodal tabular, synthetic image classification, semantic matching) executed on tiny datasets; heavy CV/chronos pieces documented but not run due to environment constraints.
 
 ## Environment
 - Python 3.11 `.venv` locally; Colab GPU recommended for faster training.
