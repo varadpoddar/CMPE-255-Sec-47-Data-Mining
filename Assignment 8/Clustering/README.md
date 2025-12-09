@@ -3,15 +3,15 @@
 One Colab per component. Run each in Colab (GPU/TPU if needed), capture outputs, and record a short walkthrough video. Links below are for reference only; do not commit datasets/checkpoints.
 
 ## Components (to be delivered)
-1) K-Means clustering **from scratch** (completed template: `colabs/kmeans_from_scratch.ipynb`)
-2) Hierarchical clustering (library-based)
-3) Gaussian mixture models (GMM) clustering
-4) DBSCAN clustering (PyCaret)
-5) Anomaly detection with PyOD (uni/multivariate)
-6) Time-series clustering with pretrained models
-7) Document clustering with LLM embeddings
-8) Image clustering with ImageBind/LLM embeddings
-9) Audio clustering with ImageBind/LLM embeddings
+1) K-Means clustering **from scratch** — `colabs/kmeans_from_scratch.ipynb` (template ready)
+2) Hierarchical clustering (library) — `colabs/hierarchical_clustering.ipynb`
+3) Gaussian mixture models (GMM) — `colabs/gmm_clustering.ipynb`
+4) DBSCAN via PyCaret — `colabs/dbscan_pycaret.ipynb`
+5) Anomaly detection with PyOD — `colabs/pyod_anomaly.ipynb`
+6) Time-series clustering (tslearn) — `colabs/timeseries_clustering.ipynb`
+7) Document clustering with LLM embeddings — `colabs/document_clustering_embeddings.ipynb`
+8) Image clustering with ImageBind embeddings — `colabs/image_clustering_imagebind.ipynb`
+9) Audio clustering with ImageBind embeddings — `colabs/audio_clustering_imagebind.ipynb`
 
 ## How to use the Colabs
 - Open the notebook in Colab, select GPU runtime if needed.
@@ -20,5 +20,5 @@ One Colab per component. Run each in Colab (GPU/TPU if needed), capture outputs,
 - Export executed notebook (with outputs) back to this folder.
 
 ## Status
-- K-Means from scratch: template ready (with inline documentation, visualization, metrics). Needs execution in Colab and video capture.
-- Remaining components: stubs pending; follow the list above to add one notebook per item.
+- All templates added (one notebook per component). None executed locally; run in Colab/GPU as needed and save outputs + video links.
+- ImageBind notebooks expect GPU and internet to fetch sample media.
