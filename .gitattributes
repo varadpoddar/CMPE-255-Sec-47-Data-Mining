@@ -1,0 +1,6 @@
+*.mov filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+Assignment[[:space:]]5/PyCaret/data/creditcard.csv filter=lfs diff=lfs merge=lfs -text
+association-rules/*.csv filter=lfs diff=lfs merge=lfs -text
+Assignment[[:space:]]5/PyCaret/data/association_rules.csv filter=lfs diff=lfs merge=lfs -text
